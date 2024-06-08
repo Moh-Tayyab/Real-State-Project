@@ -1,0 +1,24 @@
+{
+  "name": "@moh-tayyab0342/real state project",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Tayyab",
+  "license": "MIT",
+  "description": "A TypeScript-based console application that uses `inquirer` for interactive prompts and `chalk` for styled output to manage real estate activities like buying, renting, and selling houses.",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
