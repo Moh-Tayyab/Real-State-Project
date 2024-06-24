@@ -1,8 +1,8 @@
 {
-  "name": "@moh-tayyab0342/real state project",
-  "version": "1.0.0",
+  "name": "@moh-tayyab0342/real-state-project",
+  "version": "2.3.0",
   "main": "main.js",
-  "type": "module",
+  "type": "commonjs",
   "publishConfig": {
     "access": "public"
   },

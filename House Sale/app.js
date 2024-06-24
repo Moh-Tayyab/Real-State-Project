@@ -42,7 +42,7 @@ async function saleHouse() {
             message: chalk.italic.bold.bgGray("Enter phone No (with hyphens): "),
         }
     ]);
-    console.log(chalk.bold.green(`
+    console.log(chalk.bold.green.red(`
     City Name: ${result.city}
     Society Name: ${result.societyName}
     House No: ${result.houseNo}

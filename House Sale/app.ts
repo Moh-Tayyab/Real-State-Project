@@ -45,7 +45,7 @@ async function saleHouse() {
     }
   ]);
 
-  console.log(chalk.bold.green(`
+  console.log(chalk.bold.green.red(`
     City Name: ${result.city}
     Society Name: ${result.societyName}
     House No: ${result.houseNo}
